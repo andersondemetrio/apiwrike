@@ -1,0 +1,30 @@
+# Ambiente virtual
+venv/
+env/
+
+# Bytecode compilado
+__pycache__/
+*.pyc
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações do editor/IDE
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+
+# Streamlit cache e arquivos temporários
+.streamlit/
+
+# Arquivos de configuração Pipenv (se usar)
+Pipfile.lock
+
+# Arquivos de configuração Poetry (se usar)
+poetry.lock
+
+# Arquivos temporários do toml, se houver
+*.toml.lock
