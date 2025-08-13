@@ -14,3 +14,5 @@ No arquivo, adicione a seguinte linha:
 
 ```toml
 wrike_access_token = "SUA_API_KEY_DO_APP_WRIKE"
+
+## 3. pip -r install requirements.txt
